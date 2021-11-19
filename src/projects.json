@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Note Taker",
+      "details": "note taker app deployed on Heroku",
+      "link": "  https://github.com/pgpguru/verbose-octo-computing-machine/"
+    },
+    {
+      "id": 2,
+      "name": "Password Generator ",
+      "details": "quck tool to generate a random secure password",
+      "link": "https://github.com/pgpguru/03-pswd_gen/"
+    },
+    {
+      "id": 3,
+      "name": "Employee Tracker app",
+      "details": "The Employee Tracker is an application that can help keep track of employees based on their role, the department where they work in and othe ways of tracking employees..",
+      "link": "https://github.com/pgpguru/cuddly-octo-computing-machine"
+    }
+
+  ]
+
+  

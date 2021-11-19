@@ -1,0 +1,10 @@
+.jumbotron {
+    background: #054e11; 
+    margin-bottom: 0; 
+    text-align: center;
+    display: inline-block;
+}
+
+.jumbotron-text h4 {
+    text-align: center;
+}
